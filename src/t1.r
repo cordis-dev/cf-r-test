@@ -1,4 +1,4 @@
-#' todo: blabla TODO: asdsa
+#' todo: test
 runCrossValidation <- function(data, pc) {
   cat(x) ### fixme
   abv <- 'c:/'
