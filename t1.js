@@ -1,3 +1,3 @@
-if (!!TRUE)
+if (TRUE)
 {
 }
